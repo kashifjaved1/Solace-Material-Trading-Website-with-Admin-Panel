@@ -1,0 +1,810 @@
+.mediaViewInfo {
+	--web-view-name: WEB – 1;
+	--web-view-id: WEB__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: WEB__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#WEB__1 {
+	position: absolute;
+	width: 1580px;
+	height: 3184px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: WEB – 1;
+	--web-view-id: WEB__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_1_k {
+	opacity: 0.9;
+	fill: url(#Rectangle_1_k);
+}
+.Rectangle_1_k {
+	width: 2589px;
+	height: 1580px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,-504.5,747.5) rotate(90deg);
+	transform-origin: center;
+}
+#ID1219 {
+	position: absolute;
+	width: 1380px;
+	height: 810px;
+	left: 100px;
+	top: 925px;
+	overflow: visible;
+}
+#Group_17 {
+	position: absolute;
+	width: 1306px;
+	height: 304.949px;
+	left: 137px;
+	top: 341.051px;
+	overflow: visible;
+}
+#SOLACE_METAL_TRADING {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 1307px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Sitka Subheading;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 114px;
+	color: rgba(255,255,255,1);
+}
+#PREMIUM_SUPPLIER_OF_FERROUS_NO {
+	left: 364.5px;
+	top: 186.765px;
+	position: absolute;
+	overflow: visible;
+	width: 577px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#Solace_Metal_Trading_is_a_fami {
+	left: 122.5px;
+	top: 241.949px;
+	position: absolute;
+	overflow: visible;
+	width: 1061px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#Group_16 {
+	position: absolute;
+	width: 601px;
+	height: 213.333px;
+	left: 490px;
+	top: 2870.856px;
+	overflow: visible;
+}
+#SOLACE_METAL_TRADING_r {
+	left: 3px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 596px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 53px;
+	color: rgba(191,124,83,1);
+}
+#infosolacemetaltradingcom {
+	left: 122px;
+	top: 113.43px;
+	position: absolute;
+	overflow: visible;
+	width: 357px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(23,86,50,1);
+}
+#whatsapp_1306_203_4216__Cell_9 {
+	left: 0px;
+	top: 177.333px;
+	position: absolute;
+	overflow: visible;
+	width: 602px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(23,86,50,1);
+}
+#ID356 {
+	position: absolute;
+	width: 651px;
+	height: 587px;
+	left: 791px;
+	top: 2121px;
+	overflow: visible;
+}
+#Rectangle_6 {
+	fill: rgba(232,227,205,1);
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 651px;
+	height: 587px;
+	left: 138px;
+	top: 2121px;
+}
+#Group_15 {
+	position: absolute;
+	width: 200px;
+	height: 72px;
+	left: 690px;
+	top: 814px;
+	overflow: visible;
+}
+#LEARN_MORE {
+	left: 34px;
+	top: 21px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_7 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+#Group_20 {
+	position: absolute;
+	width: 452px;
+	height: 458px;
+	left: 238px;
+	top: 2186px;
+	overflow: visible;
+}
+#Group_19 {
+	position: absolute;
+	width: 452px;
+	height: 385px;
+	left: 0px;
+	top: 73px;
+	overflow: visible;
+}
+#Line_7 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_7 {
+	overflow: visible;
+	position: absolute;
+	width: 368.528px;
+	height: 2px;
+	left: 81.5px;
+	top: 60.1px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_8 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8 {
+	overflow: visible;
+	position: absolute;
+	width: 368.528px;
+	height: 2px;
+	left: 81.5px;
+	top: 101.909px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_9 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_9 {
+	overflow: visible;
+	position: absolute;
+	width: 368.544px;
+	height: 5.023px;
+	left: 81.5px;
+	top: 144.477px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_6 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_6 {
+	overflow: visible;
+	position: absolute;
+	width: 442px;
+	height: 2px;
+	left: 10px;
+	top: 306px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_18 {
+	position: absolute;
+	width: 94px;
+	height: 38px;
+	left: 179px;
+	top: 347px;
+	overflow: visible;
+}
+#Rectangle_7_ {
+	fill: transparent;
+	stroke: rgba(191,124,83,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_7_ {
+	position: absolute;
+	overflow: visible;
+	width: 94px;
+	height: 38px;
+	left: 0px;
+	top: 0px;
+}
+#SEND {
+	left: 25px;
+	top: 7px;
+	position: absolute;
+	overflow: visible;
+	width: 46px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(191,124,83,1);
+}
+#Message {
+	left: 0px;
+	top: 130px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(191,124,83,1);
+	text-transform: uppercase;
+}
+#Subject {
+	left: 0px;
+	top: 84px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(191,124,83,1);
+	text-transform: uppercase;
+}
+#Email {
+	left: 0px;
+	top: 42px;
+	position: absolute;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(191,124,83,1);
+	text-transform: uppercase;
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 368.528px;
+	height: 2px;
+	left: 81.5px;
+	top: 18.292px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#NAME {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(191,124,83,1);
+}
+#Contact_Us {
+	left: 152px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 150px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(23,86,50,1);
+}
+#Group_14 {
+	position: absolute;
+	width: 1363px;
+	height: 136.704px;
+	left: 109px;
+	top: 45px;
+	overflow: visible;
+}
+#Group_13 {
+	position: absolute;
+	width: 653px;
+	height: 71px;
+	left: 710px;
+	top: 36px;
+	overflow: visible;
+}
+#Contact_US {
+	left: 289px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 114px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(191,124,83,1);
+}
+#Our_Products {
+	left: 108px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 135px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(191,124,83,1);
+}
+#Home {
+	left: 0px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(191,124,83,1);
+}
+#Group_12 {
+	position: absolute;
+	width: 204px;
+	height: 71px;
+	left: 449px;
+	top: 0px;
+	overflow: visible;
+}
+#Get_In_Touch {
+	left: 32px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(191,124,83,1);
+}
+#Rectangle_7_bl {
+	fill: transparent;
+	stroke: rgba(191,124,83,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_7_bl {
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	height: 71px;
+	left: 0px;
+	top: 0px;
+}
+#Group_11 {
+	position: absolute;
+	width: 491.121px;
+	height: 136.704px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_10 {
+	position: absolute;
+	width: 349.543px;
+	height: 120.701px;
+	left: 141.577px;
+	top: 16.003px;
+	overflow: visible;
+}
+#Group_9 {
+	position: absolute;
+	width: 349.543px;
+	height: 120.701px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_8 {
+	position: absolute;
+	width: 349.543px;
+	height: 120.701px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_1_br {
+	fill: url(#Path_1_br);
+}
+.Path_1_br {
+	overflow: visible;
+	position: absolute;
+	width: 30.685px;
+	height: 44.392px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_2_bt {
+	fill: url(#Path_2_bt);
+}
+.Path_2_bt {
+	overflow: visible;
+	position: absolute;
+	width: 26.411px;
+	height: 33.452px;
+	left: 35.714px;
+	top: 10.94px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_3_bv {
+	fill: url(#Path_3_bv);
+}
+.Path_3_bv {
+	overflow: visible;
+	position: absolute;
+	width: 13.518px;
+	height: 43.386px;
+	left: 68.352px;
+	top: 0.628px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_4_bx {
+	fill: url(#Path_4_bx);
+}
+.Path_4_bx {
+	overflow: visible;
+	position: absolute;
+	width: 25.844px;
+	height: 33.452px;
+	left: 85.262px;
+	top: 10.94px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_5_bz {
+	fill: url(#Path_5_bz);
+}
+.Path_5_bz {
+	overflow: visible;
+	position: absolute;
+	width: 26.092px;
+	height: 33.452px;
+	left: 117.333px;
+	top: 10.94px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_6_b {
+	fill: url(#Path_6_b);
+}
+.Path_6_b {
+	overflow: visible;
+	position: absolute;
+	width: 26.851px;
+	height: 33.452px;
+	left: 149.085px;
+	top: 10.94px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_7_b {
+	fill: url(#Path_7_b);
+}
+.Path_7_b {
+	overflow: visible;
+	position: absolute;
+	width: 38.607px;
+	height: 43.389px;
+	left: 2.139px;
+	top: 67px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_8_b {
+	fill: url(#Path_8_b);
+}
+.Path_8_b {
+	overflow: visible;
+	position: absolute;
+	width: 26.85px;
+	height: 33.449px;
+	left: 47.286px;
+	top: 77.315px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_9_b {
+	fill: url(#Path_9_b);
+}
+.Path_9_b {
+	overflow: visible;
+	position: absolute;
+	width: 18.547px;
+	height: 41.817px;
+	left: 77.28px;
+	top: 68.572px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_10_b {
+	fill: url(#Path_10_b);
+}
+.Path_10_b {
+	overflow: visible;
+	position: absolute;
+	width: 25.842px;
+	height: 33.449px;
+	left: 99.476px;
+	top: 77.315px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_11_cb {
+	fill: url(#Path_11_cb);
+}
+.Path_11_cb {
+	overflow: visible;
+	position: absolute;
+	width: 13.518px;
+	height: 43.389px;
+	left: 132.11px;
+	top: 67px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_12_cd {
+	fill: url(#Path_12_cd);
+}
+.Path_12_cd {
+	overflow: visible;
+	position: absolute;
+	width: 30.434px;
+	height: 43.389px;
+	left: 159.647px;
+	top: 67px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_13_cf {
+	fill: url(#Path_13_cf);
+}
+.Path_13_cf {
+	overflow: visible;
+	position: absolute;
+	width: 17.983px;
+	height: 33.39px;
+	left: 190.459px;
+	top: 76.999px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_14_ch {
+	fill: url(#Path_14_ch);
+}
+.Path_14_ch {
+	overflow: visible;
+	position: absolute;
+	width: 25.842px;
+	height: 33.449px;
+	left: 211.209px;
+	top: 77.315px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_15_cj {
+	fill: url(#Path_15_cj);
+}
+.Path_15_cj {
+	overflow: visible;
+	position: absolute;
+	width: 26.095px;
+	height: 43.763px;
+	left: 243.278px;
+	top: 67px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_16_cl {
+	fill: url(#Path_16_cl);
+}
+.Path_16_cl {
+	overflow: visible;
+	position: absolute;
+	width: 7.923px;
+	height: 43.389px;
+	left: 276.352px;
+	top: 67px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_17_cn {
+	fill: url(#Path_17_cn);
+}
+.Path_17_cn {
+	overflow: visible;
+	position: absolute;
+	width: 25.906px;
+	height: 33.074px;
+	left: 291.318px;
+	top: 77.315px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_18_cp {
+	fill: url(#Path_18_cp);
+}
+.Path_18_cp {
+	overflow: visible;
+	position: absolute;
+	width: 26.095px;
+	height: 43.386px;
+	left: 323.448px;
+	top: 77.315px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#letterhead {
+	position: absolute;
+	width: 136px;
+	height: 136px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_6 {
+	opacity: 0.85;
+	position: absolute;
+	width: 1580px;
+	height: 41px;
+	left: 0px;
+	top: 3143px;
+	overflow: visible;
+}
+#Rectangle_8_ct {
+	opacity: 0.9;
+	fill: url(#Rectangle_8_ct);
+}
+.Rectangle_8_ct {
+	width: 41px;
+	height: 1580px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(0px, -0.385px) matrix(1,0,0,1,769.4995,-769.1146) rotate(90deg);
+	transform-origin: center;
+}
+#ID2020_by_SOLACE_METAL_TRADING {
+	left: 627px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 255px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
